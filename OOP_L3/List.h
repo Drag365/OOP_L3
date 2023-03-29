@@ -49,7 +49,7 @@ public:
 
     void Set(T* x, int j) {
         if (n != 0)
-            mas[j] = *x;
+            mas[j] = *x; 
     };
 
     void Add(T* x, int j) {
